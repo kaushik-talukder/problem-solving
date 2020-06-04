@@ -20,7 +20,7 @@ If  and  are case-insensitive anagrams, print "Anagrams"; otherwise, print "Not 
 public class Anagram {
 
 	// Using 2 maps
-	boolean checkAnagram1(String a, String b) {
+	public boolean checkAnagram1(String a, String b) {
 
 		if (a.length() != b.length()) {
 			return false;
