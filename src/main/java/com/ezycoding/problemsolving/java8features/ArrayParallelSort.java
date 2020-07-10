@@ -21,3 +21,4 @@ public class ArrayParallelSort {
         System.out.println(list);
     }
 }
+
