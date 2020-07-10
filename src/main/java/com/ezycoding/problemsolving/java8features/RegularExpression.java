@@ -2,7 +2,7 @@ package com.ezycoding.problemsolving.java8features;
 
 import java.util.regex.Pattern;
 
-public class RegEx {
+public class RegularExpression {
     public static void main(String[] args) {
         // Exact match
         String input = "xy", regex = "xy";
