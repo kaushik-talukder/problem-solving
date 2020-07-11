@@ -1,4 +1,4 @@
-package com.ezycoding.problemsolving.java8features.iface;
+package com.ezycoding.problemsolving.java8features.intrface;
 
 public interface Car {
     default void changeGear() {
